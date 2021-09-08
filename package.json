@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "canvacord": "^5.1.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^12.5.1",
+    "google": "^0.6.0",
+    "mongoose": "^5.13.2",
+    "request": "^2.88.2"
+  },
+  "name": "danmachibot",
+  "version": "1.0.1",
+  "description": "Bot for youtube",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hideki",
+  "license": "ISC"
+}
